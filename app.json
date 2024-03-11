@@ -1,5 +1,5 @@
 {
-    "name": "🇻ɪᴘ 🇩ɪᴛᴛᴏ 🇧ᴏᴛ.",
+    "name": "🏴‍☠️𝕽𝖊𝖆𝖕𝖊𝖗🏴‍☠️.",
     "logo": "https://telegra.ph/file/ec9abca4f8076a96956fa.jpg",
     "keywords": [
         "telegram",
@@ -62,7 +62,7 @@
       },
       "CMD_HNDLR": {
         "description": "Custom command handler.",
-        "value": ".",
+        "value": "+",
         "required": false
       },
       "SUDO_USERS": {
